@@ -9,18 +9,18 @@ the jar file included in this project are
 
 jar for generating pdf must be added to library
 -------------------------------------------------
-bcmail-jdk14-1.38
-bcprov-jdk14-1.38
-bctsp-jdk14-1.38
-itextpdf-5.0.6
+bcmail-jdk14-1.38,
+ bcprov-jdk14-1.38,
+ bctsp-jdk14-1.38,
+ itextpdf-5.0.6
 
 jar for sending the pdf to email
 ----------------------------------
-dsn-1.5.6
-imap-1.5.6
-mailapi-1.5.6 
-mailapi-1.5.6
-smtp-1.5.6 
+dsn-1.5.6,
+ imap-1.5.6,
+ mailapi-1.5.6, 
+ mailapi-1.5.6,
+ smtp-1.5.6,
 
 mysql jar for database
 ---------------------------
